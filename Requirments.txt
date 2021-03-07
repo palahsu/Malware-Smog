@@ -1,0 +1,7 @@
+✔️Python 3.x ✔️Chrome Browser or ✔️ChromeWebDriver
+
+✔️pip install selenium
+
+✔️pip install webdriver-manager
+
+✔️pip install -r requirements.txt
